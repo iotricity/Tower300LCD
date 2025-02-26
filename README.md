@@ -23,7 +23,7 @@ Insert the entire assembly in place, the FPC-cable should be to the left, the US
 ![Tower 300 Sand&Gravel LCD](img/CADBezelBackDesign.jpg)
 
 ### AIDA64 Sensor Panel
-In the AIDA64 folder are the files you need to use the sensor panel as a 400x1280px display. The fonts used are added as Windows TrueType fonts. The font Arial Nova can be installed from the Microsoft Store, just search for "Arial Nova" and install the font. The 7-Digit font can be installed by right-clicking on the file and choose "Install Font". Import the .panel file in the Sensor Panel Manager. Set the panel to the display number used, make it show always on top. Start AIDA64 on boot so it will start automatically and show the panel.
+In the AIDA64 folder are the files you need to use the sensor panel as a 400x1280px display. The fonts used are added as Windows TrueType fonts. The font Arial Nova can be installed from the Microsoft Store, just search for "Arial Nova" and install the font. The 7-Digit font can be installed by right-clicking on the file and choose "Install Font". Import the .sensorpanel file in the Sensor Panel Manager. Set the panel to the display number used, make it show always on top. Start AIDA64 on boot so it will start automatically and show the panel.
 
 There are also seperate .png files. These are the image files for the orange backgrounds with several heights and the extra graphical bezels. These bezels consist of a top, center and bottom part, and several sides with a different height. By overlapping the images you can create nice bezels. See the example sensor panel.
 
