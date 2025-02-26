@@ -24,7 +24,7 @@ In the AIDA64 folder are the files you need to use the sensor panel as a 400x128
 
 There are also seperate .png files. These are the image files for the orange backgrounds with several heights and the extra graphical bezels. These bezels consist of a top, center and bottom part, and several sides with a different height. By overlapping the images you can create nice bezels. See the example sensor panel.
 
-Change the sensor data and layout to your likings. The example sensor panel is a work in progress and not the final version. Also, sensor data differs from brands of mainboards, graphic cards etc. On the forum of AIDA64 there a lots of other examples and ideas, see ![AIDA64 Share your Sensor panel](https://forums.aida64.com/topic/13296-share-your-sensorpanels/)
+Change the sensor data and layout to your likings. The example sensor panel is a work in progress and not the final version. Also, sensor data differs from brands of mainboards, graphic cards etc. On the forum of AIDA64 there a lots of other examples and ideas, see [AIDA64 Share your Sensor panel](https://forums.aida64.com/topic/13296-share-your-sensorpanels/).
 
 
 Enjoy and have fun, share your creations on the forum, Reddit or whatever.
