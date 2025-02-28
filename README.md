@@ -8,6 +8,8 @@ To fit the display pretty flush with the sides, you need to grind away the lower
 
 ![Tower 300 Sand&Gravel LCD](img/LCDCutLowerEdge.jpg)
 
+If you don't want to modify the case, there's another frame in the 3D Files folder with "No Case Mod" in the filenames. This frame sticks out about 2 millimeters in front, but the edges are chamfered.
+
 ### The Display
 The display used is a 7.84" 1280x400 pixels display from WaveShare. Bought from eBay, seller "BuyDisplay", but they're also available on Amazon and many other webshops. Just make sure its the 7.84" display and not the 8" display, the latter will not fit in the opening of the cover. Be careful with the FPC-cable, it's very fragile and any folding or scratching can cause permanent damage.
 
@@ -15,6 +17,8 @@ The display used is a 7.84" 1280x400 pixels display from WaveShare. Bought from 
 
 ### The Frame
 The frame is designed as two seperate parts, one is the front bezel and visible, the other part is a backpanel that fits the two holes and fixes the small PCB. It also provides two mounting point to fix the USB and Micr-HDMI cable to prevent the connectors ripping of the PCB. The 3D .stl files are in the folder "3D Files". Print them with 0.40mm nozzle and 0.20mm layer height, 100% infill. Depending on the printer you're using, supports might be needed.
+
+There are also two .stl files with "No Case Mod" in the name. These are the first tries (so V1) and was work in progress before the V2 version. Using this frame, there's no need to modify the case and keep all in place. Assembling and mounting is kind of the same process.
 
 When printed, screw the PCB into the supports using three 2.5x5mm screws. Be sure the tips of the screws stay withing the backplate, otherwise the tips might damage the display. Glue the LCD into the front bezel (although it might fit and stay without any glue). In the bezel there is a small cutout where the flatcable fits, this is the left side of the bezel, seen from the front side. Then glue or tape with double sided/carpet tape the backplate on the back of the LCD. The backplate should fit withint the edges of the bezel. Mount the FPC-cable on the LCD and PCB. Plug in the USB and Micro-HDMI cable. Fix the cable with tie-wraps to the two lugs. There should be no stress on the connectors.
 
