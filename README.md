@@ -33,5 +33,11 @@ There are also seperate .png files. These are the image files for the orange bac
 
 Change the sensor data and layout to your likings. The example sensor panel is a work in progress and not the final version. Also, sensor data differs from brands of mainboards, graphic cards etc. On the forum of AIDA64 there a lots of other examples and ideas, see [AIDA64 Share your Sensor panel](https://forums.aida64.com/topic/13296-share-your-sensorpanels/).
 
+### I/O Shield Cover
+Also made a simple cover to cover up the cables coming from the I/O Shield. Openings are the same size as the ones in the case itself, letting air through to or from the top fans. It can be placed without any screws. It's a work in progress and places on Thingiverse.
+See: [ThermalTake Tower 300 IO Shield Cable Cover](https://www.thingiverse.com/thing:7013457).
+
+![Tower 300 Sand&Gravel LCD](img/ThermalTakeTower300IOShield.jpg)
+
 
 Enjoy and have fun, share your creations on the forum, Reddit or whatever.
